@@ -1,0 +1,85 @@
+.promo-block {
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    padding: 350px 0 300px;
+}
+
+.promo-block-title{
+    border-bottom: 1px solid white;
+    font-family: txt3;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 3px;
+}
+.promo-block-text{
+    color: white;
+    font-size: 18px;
+    font-family: txt2;
+}
+
+.progress-box .progress {
+    box-shadow: none;
+    height: 3px;
+}
+.main{
+    padding-left: 15px;
+    font-family: txt2;
+}
+.maind{
+    font-family: txt2;
+    padding-bottom: 15px;
+}
+.main:after{
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    width: 19px;
+    height: 4px;
+    background: #17bed2;
+    content: " ";
+    transition-duration: .4s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.7,1,.7,1);
+}
+#linkedin{transition: all .5s; opacity:0.6;}
+#linkedin:hover{opacity:1;}
+#github{transition: all .5s; opacity:0.6;}
+#github:hover{opacity:1;}
+
+.m_text{
+    font-family: txt3;
+    font-size: 14px;
+}
+.m_text span{
+    font-weight: bold;
+}
+.btn-cv{
+    padding: 15px 23px;
+    background: #17bed2;
+    color: white;
+    text-decoration: none;
+    transition: all .4s;
+    font-family: txt2;
+}
+.btn-cv:focus, .btn-cv:hover {
+    color: #515769;
+    background: #f3f4f5;
+    text-decoration: none;
+}
+#cv{
+
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+#footer {
+    padding-top: 5px;
+    padding-left: 15px;
+    background: black;
+    height: 35px;
+    color: #dcd9d9;
+    font-family: txt3;
+    text-align: center;
+}

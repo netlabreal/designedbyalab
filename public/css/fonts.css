@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'txt1';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt1.otf') ;
+}
+@font-face {
+    font-family: 'txt2';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt2.otf') ;
+}
+@font-face {
+    font-family: 'txt3';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt3.otf') ;
+}
+@font-face {
+    font-family: 'txt4';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt4.otf') ;
+}
+@font-face {
+    font-family: 'txt5';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt5.otf') ;
+}
+@font-face {
+    font-family: 'txt6';
+    font-style: normal;
+    font-weight: normal;
+    src: local('menu'), url('txt6.otf') ;
+}

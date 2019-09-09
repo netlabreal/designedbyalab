@@ -1,0 +1,27 @@
+.MuiTypography-body2{
+    font-family: txt4!important;
+}
+.media{
+    height: 140px;
+}
+#work{
+    padding-top: 30px;
+    padding-bottom: 160px;
+    background: #f8f8f8;
+}
+.smallLink{
+    font-family:txt3;
+    font-weight:bold;
+}
+.smallLink a:hover, a:focus{
+    text-decoration: none;
+    color: black;
+}
+.workc{
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.card{
+    min-width: 350px;
+    max-width: 400px;
+}

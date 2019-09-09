@@ -1,0 +1,32 @@
+#about{
+    padding-top: 60px;
+}
+.sertificates{
+    padding-bottom: 25px;
+}
+.work-overlay
+{
+    margin-right: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+.work-overlay img{
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+}
+.pred {
+    padding-left:25px;
+}
+.ab-text{
+    padding-left:25px;
+    font-family: txt2;
+}
+.pred h5{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-family: txt2;
+
+}
+.progress {
+    margin-bottom: 15px!important;
+}
